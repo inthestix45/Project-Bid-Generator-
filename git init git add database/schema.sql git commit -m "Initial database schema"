@@ -1,0 +1,6 @@
+git init
+git add database/schema.sql
+git commit -m "Initial database schema"
+git init
+git add database/schema.sql
+git commit -m "Initial database schema"
